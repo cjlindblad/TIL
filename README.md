@@ -8,4 +8,4 @@
 
 ### Git
 
-- [Setup Remote For New Branches Automatically](git/setup-remote-for-new-branches-automatically)
+- [Setup Remote For New Branches Automatically](git/setup-remote-for-new-branches-automatically.md)
